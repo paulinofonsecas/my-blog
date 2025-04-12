@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'Bloc pessoal de Paulino Fonseca',
   language: 'pt-br',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://paulino.dev',
+  siteUrl: 'https://pftech.vercel.app',
   siteRepo: 'https://github.com/paulino-fonseca/paulino.dev',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
